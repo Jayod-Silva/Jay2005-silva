@@ -1,8 +1,7 @@
 <h1 align="center">Hi, I'm Jayod Silva</h1>
 <h3 align="center">I'm a Software Engineering Undergraduate Student in Cardiff Metropolitan University | 3D & Graphic Designer | UI Designer and Tech Enthusiast 🎨💻</h3>
 
-
-- 🔥 I’m currently learning **Java | Blender Animations**
+- 🔥 **I’m currently learning :** Java | Blender Animations
 
 - 😉**Just call me JAY**
 
