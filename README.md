@@ -3,7 +3,7 @@
 
 - 🔥 I’m currently learning : **Java | Blender Animations**
 
-- 😊 Fun fact **Just call me Jay 😉**
+- **Just call me Jay 😉**
 
 
 <h3 align="left">Languages and Tools:</h3>
