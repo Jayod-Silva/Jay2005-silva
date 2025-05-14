@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Jayod Silva</h1>
-<h3 align="center">I'm a Software Engineering Undergraduate Student in Cardiff Metropolitan University | 3D & Graphic Designer | UI Designer and Tech Enthusiast 🎨💻</h3>
+<h3 align="center">I'm a Software Engineering Undergraduate Student in Cardiff Metropolitan University | 3D & Animation Artist | Game Developer and Tech Enthusiast 🎨💻</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jay2005-silva&label=Profile%20views&color=0e75b6&style=flat" alt="jay2005-silva" /> </p>
 
-- 🔥 **I’m currently learning :** Java | Blender Animations
+- 🔥 **I’m currently learning :** Blender Animations | Unreal Game Development
 
 - 😉**Just call me JAY**
 
